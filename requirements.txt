@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+pillow==9.5.0
+numpy==1.23.5
+pandas==2.0.1
+aitextgen==0.6.0
+torch==2.0.1+cu118 
+torchvision==0.15.2+cu118
+torchaudio==2.0.2
+torchmetrics==0.11.4
+pytorch-lightning==1.7.0
+pyperclip==1.8.2
+diffusers==0.19.3
+datetime==5.1
+xformers==0.0.21.dev572
