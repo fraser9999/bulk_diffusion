@@ -1,0 +1,3 @@
+pytorch_model.bin
+
+download and use "bulk_diffusion" release for this custom trained GPTNeo Model
